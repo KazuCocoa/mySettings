@@ -7,4 +7,4 @@
     - https://www.docker.com/docker-toolbox
 
 # brew
-`brew install git rbenv erlang python3`
+`brew install git rbenv erlang python3 postgres`
