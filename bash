@@ -24,4 +24,4 @@ export PGDATA="/usr/local/var/postgres/"
 # docker
 # eval "$(docker-machine env default)"
 
-export PATH="$HOME/.yarn/bin:$PATH"
+export PATH="$PATH:`yarn global bin`"
