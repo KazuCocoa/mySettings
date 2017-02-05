@@ -5,6 +5,6 @@
     - `curl -L git.io/nodebrew | perl - setup`
 - docker
     - https://www.docker.com/docker-toolbox
-- bashprofile
-    - `export PATH="/usr/local/bin:$PATH"`
 
+# brew
+`brew install git rbenv erlang python3`
