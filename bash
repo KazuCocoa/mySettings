@@ -12,8 +12,8 @@ export PATH=/Users/kazuaki/GitHub/AppBundleSample/apks:$PATH
 export ANDROID_HOME="/Users/kazuaki/Library/Android/sdk"
 export PATH=${PATH}:$ANDROID_HOME/tools:$ANDROID_HOME/tools/bin:$ANDROID_HOME/platform-tools:$ANDROID_HOME/build-tools/25.0.2
 
-# JAVA
-export JAVA_HOME="$(/usr/libexec/java_home -v 1.8)"
+# JAVA for Android
+export JAVA_HOME=/Applications/Android\ Studio.app/Contents/jre/jdk/Contents/Home↲
 export PATH=$PATH:$JAVA_HOME/bin
 
 # Postgres
